@@ -9,7 +9,7 @@
 📝 Practising clean, well-structured, and efficient code. Currently working on cleaning data.
 
 🔗 Let’s connect and build something amazing together:
-Updating social media links and portfolio soon
+Updating social media links and portfolio soon.
 
 
 <!---
